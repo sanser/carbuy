@@ -1,7 +1,7 @@
 ﻿
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>net48</TargetFramework>
+    <TargetFramework>net4</TargetFramework>
     <PackageId>OpenRPA.WindowsAccessBridgeInterop</PackageId>
     <Authors>Google</Authors>
     <Product>access-bridge-explorer</Product>

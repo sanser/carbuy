@@ -1,7 +1,7 @@
 ﻿
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>net48</TargetFramework>
+    <TargetFramework>net462</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageLicenseExpression>AGPL-3.0-only</PackageLicenseExpression>
     <Description>Simple wrapper activites around https://elis.rossum.ai api</Description>

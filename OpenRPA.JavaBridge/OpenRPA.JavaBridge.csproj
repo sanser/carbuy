@@ -1,6 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFramework>net48</TargetFramework>
+    <TargetFramework>net40</TargetFramework>
     <ApplicationIcon>Resources\OpenRPA2.ico</ApplicationIcon>
     <OutputType>WinExe</OutputType>
     <StartupObject />
