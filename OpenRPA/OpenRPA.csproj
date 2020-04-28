@@ -660,11 +660,6 @@
     <EmbeddedResource Include="Resources\toolbox\mouse.png" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="Resources\strings.Designer.cs">
-      <DesignTime>True</DesignTime>
-      <AutoGen>True</AutoGen>
-      <DependentUpon>strings.resx</DependentUpon>
-    </Compile>
     <Compile Update="Views\RecorderPlugins.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
